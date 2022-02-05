@@ -1,7 +1,9 @@
 # PrepBoost 
  “Education is not the answer to the question. Education is the means to the answer to all questions.”
 
- 
+**DESCRIPTION**
+
+This is our term project for CEN 5035, Software Engineering course.
 PrepBoost is an Edtech platform designed for students preparing for exams conducted by UPSC (Union Public Service Commission) of India. UPSC conducts various exams every year like the CSE (Civil Services Examination), CDS (Combined Defense Services), CAPF (Central Armed Police Forces), NDA (National Defense Academy), and others. Our vision is to help students during their preparation with the power of technology to make their preparation easier, smarter &amp; enjoyable.
 
 Elaborating on the details of the project : 
@@ -34,7 +36,13 @@ Elaborating on the details of the project :
 
 # Tech Stack :
 
-React, Golang, MySQL, Elasticsearch
+React JS, Golang, GORM, SQLite , Node. JS 
+
+**Installation**:
+Steps to get the development environment running:
+
+Clone/download the repository
+
 
 # Team Members :
 
