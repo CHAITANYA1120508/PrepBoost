@@ -33,6 +33,7 @@ Elaborating on the details of the project :
 23. If they score high percentile, the rewards will be added so that they can get scholarship for the next subscription.
 24. Bookmarking option helps students to save the questions which they want to solve multiple times.
 25. Students can Report(!) a question if there is any error or if the answer is incorrect.
+26. Studdents can generate pdfs of test taken.
 
 # Tech Stack :
 
